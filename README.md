@@ -2,6 +2,9 @@
 
 A daily habit-building app that presents users with personalized challenges and provides AI-powered chat support to help them stay motivated and complete their goals.
 
+[![Watch the demo](https://img.youtube.com/vi/CZRlb1J2_l0/0.jpg)](https://youtu.be/CZRlb1J2_l0)
+
+
 ## 📱 Features
 
 - **Daily Challenges**: Curated challenges with varying difficulty levels
